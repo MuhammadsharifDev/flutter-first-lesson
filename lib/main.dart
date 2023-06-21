@@ -44,7 +44,6 @@ bool isDateFetched=false;
       style:TextStyle(
           fontSize:45,
           color:Colors.green
-
       )
       )
           :const CircularProgressIndicator(),
